@@ -1,0 +1,30 @@
+﻿body
+{
+        font-family: 'Crimson Text', serif;
+        font-size: 20px;
+		
+}
+.split-para      { display:block;margin:10px;}
+.split-para span { display:block;float:right;width:50%;margin-left:10px;}
+
+p{
+	padding-left:25px;
+}
+
+.header-shift{
+	text-align: center;
+}
+
+.title {
+    font-weight: bold;
+	font-size: 40px;
+}
+.small-title {
+    font-weight: bold;
+	font-size: 30px;
+}
+
+.change-color {
+    background-color: lightgreen;
+}
+.solid {border-style: solid;}
